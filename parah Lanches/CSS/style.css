@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    margin: 10% auto;
+    border: dotted 10px black;
+    padding: 70px;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    
+}
+
+.img :hover {
+    transform: scale(1.25);
+}
