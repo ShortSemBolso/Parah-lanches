@@ -27,3 +27,18 @@ Minos "Forgive me, my children, for I have failed to bring you salvation from th
 Sisyphus "This prison... to hold... me? (Bursts out of the Flesh Panopticon) A visitor? Hmm... indeed, I have slept long enough. The kingdom of heaven has long since forgotten my name. And I am EAGER to make them remember. However, the blood of Minos stains your hands, and I must admit, I'm curious about your skills, Weapon. And so, before I tear down the cities and CRUSH the armies of Heaven, you shall do as an appetizer. Come forth, Child of Man, and DIE."
 
 Sisyphus Ahh... so concludes the life and times of King Sisyphus. A fitting end to an existence defined by futile struggle, doomed from the very start. And I don't regret a second of it."
+
+
+UNDERTALE 
+
+Sans 
+heya.
+you've been busy, huh?
+...
+so, i've got a question for ya.
+do you think even the worst person can change...?
+that everybody can be a good person, if they just try?
+heh heh heh heh...
+all right.
+well, here's a better question.
+do you wanna have a bad time?
