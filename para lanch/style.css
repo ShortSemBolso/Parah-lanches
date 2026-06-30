@@ -1,34 +1,91 @@
-* {
+*{
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
-
 }
-.box {
 
+.box {
     width: 400px;
     height: 400px;
     margin: 10% auto;
-    border: dotted 10px rgba(0,0,0,0.9);
+    border: dotted 10px black;
     padding: 70px;
 }
 
-.produto img {
+.img {
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+}
 
-    height: 200px;
-    width: 180px;
+.img img {
+    width: 150px;
+    height: 130px;
     border-radius: 10px;
 }
-.produto img:hover{
-    transform: scale(1.2);
-}   
 
-.produto {
+.img :hover {
+    transform: scale(1.15);
+}
+
+.titulo_produto {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(66, 64, 64);
+    padding-top: 15px;
+    padding-bottom: 10px;
+    
+}
+
+.descr_produto {
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    font-size: 15px;
+    color: rgb(66, 64, 64);
+    padding-bottom: 15px;
+}
+
+.btnSomar button {
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    text-align: center;
+    align-items: center;
     justify-content: center;
     display: flex;
 }
 
-.container{
-    
-    display:flex;
+.btnSubtrair button{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.btnSomar {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
+.btnSubtrair {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
+.qtd_prod{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}flex;
     justify-content: center;
 }
